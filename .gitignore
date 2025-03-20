@@ -1,0 +1,25 @@
+# Ignore compiled COBOL binaries and object files
+main
+*.o
+*.cbl.lst
+*.cob.lst
+*.int
+*.idy
+*.so
+*.dll
+*.exe
+*.class
+
+# Ignore build artifacts
+build/
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor and IDE files
+.vscode/
+*.swp
+*.swo
+*~
