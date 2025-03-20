@@ -4,6 +4,10 @@
 
 A simple example demonstrating how COBOL handled screen-based front-end interactions in the 1960s.
 
+![Screenshot of Application](screenshot.png)
+
+Screenshot of the application running on macOS Sequoia 15.0.1.
+
 ## Features
 - Console-based interface (80x25)
 - Demonstrates COBOL screen section for input and output
